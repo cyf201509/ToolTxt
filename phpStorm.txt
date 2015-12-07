@@ -1,0 +1,67 @@
+phpStrom的安装步骤：
+1.安装破解版
+2.在lib下存放 
+
+3.安装ftp插件
+4.安装svn插件
+
+
+
+
+http://blog.csdn.net/black_ox/article/details/42082473
+
+http://www.wwwquan.com/show-66-121-1.html
+
+配置svn的说明文档
+http://my.oschina.net/linland/blog/110794
+
+对于高级版本svn 需要注意的事项：
+http://www.qi-yue.net/11108.html
+
+安装sublime主题注意事项：
+http://jingyan.baidu.com/album/066074d6601143c3c21cb0ce.html
+插件名称：jetbrains-monokai-sublime-master
+1.liveedit这是一款让你写html和css可以即写即浏览的插件，它需要配合谷歌浏览器Chrome使用。（这个比较适合静态页面）
+
+ 具体的安装图解
+
+快捷键：
+ctrl+j            插入活动代码提示
+ctrl+alt+t        当前位置插入环绕代码
+alt+insert        生成代码菜单
+Shift + Enter 新一行
+ctrl+q            查看代码注释
+ctrl+d            复制当前行
+ctrl+y            删除当前行
+ctrl+alt+y      刷新项目缓存Synchronize 或文件夹右键Synchronize
+shift+F6          重命名
+ctrl+shift+u      字母大小写转换
+ctrl+f            查找
+ctrl+r            替换
+ctrl+shift+I      查看变量或方法定义源
+ctrl+g            跳转行
+ctrl+alt+F12      跳转至当前文件在磁盘上的位置
+alt+down          查看下一个方法
+alt+up            查看上一个方法
+ctrl+alt+l        重新格式化代码
+ctrl+shift+down   statement向下移动
+ctrl+shift+up     statement向上移动
+alt+shift+down    line向下移动
+alt+shift+up      line向上移动
+ctrl+/            行注释
+ctrl+shift+/      块注释
+Ctrl + Shift + Z：redo
+Ctrl + Shift + F：区域查找
+ctrl+shift+n      打开工程中的文件
+ctrl+b            跳到变量申明处
+ctrl+[]           匹配 {}[]
+ctrl+shift+]/[    选中块代码<table>....</table>
+ctrl+x            剪切行
+ctrl+shift+v      复制多个文本
+alt+left/right    标签切换
+ctrl+p            显示默认参数
+ctrl + '-/+': 可以折叠项目中的任何代码块
+当然也可以通过File->settings->KeyMap修改快捷键的映射：
+
+
+
